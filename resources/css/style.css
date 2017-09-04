@@ -2,8 +2,30 @@ body {
   background-color: white;
   text-align: center;
   font-family: helvetica;
+  width: 100%;
 }
 div.fondoimagen {
 background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 opacity:1;
+}
+h1,h2,.h3{
+  font-weight: bold;
+}
+div.fondoimagen , p.copyright, a {
+ color: white;
+}
+p.copyright{
+  text-align: start; background-color: dimgray; font-size: 11px;
+}
+h1 {
+  font-size: 70px;
+}
+p.h3 .ny{
+  font-size: 23px;
+}
+.a1{
+  font-size: 18px;
+}
+.h4 {
+  font-size: 14px;
 }

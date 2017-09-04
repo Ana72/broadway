@@ -1,5 +1,9 @@
-h1{
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
+body {
+  background-color: white;
   text-align: center;
   font-family: helvetica;
+}
+div.fondoimagen {
+background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+opacity:1;
 }
